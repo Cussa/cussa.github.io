@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Welcome. Thanks for you visit. Take a look about my projects and skills.
 
 You can use the [editor on GitHub](https://github.com/Cussa/cussa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
